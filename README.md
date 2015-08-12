@@ -15,5 +15,5 @@ Environment
 Contributors
 ------------
 
- - Anithaprabha kathirvel
- - Anoop Kini
+ - [Anithaprabha kathirvel](https://github.com/anithakathir)
+ - [Anoop Kini](https://github.com/anoopkini)
